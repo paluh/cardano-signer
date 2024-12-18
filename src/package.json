@@ -22,5 +22,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/gitmachtl/cardano-signer.git"
-  }
+  },
+  "bin": "cardano-signer.js"
 }
