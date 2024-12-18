@@ -28,7 +28,7 @@
               version = "0.0.0";
               src = ./src;
               dontNpmBuild = true;
-              npmDepsHash = "sha256-Y2RBTnIgnF3JgyyuSLSZZP09rpckHTkI/xLqXKj7+iQ=";
+              npmDepsHash = "sha256-nGLVW0a8LGru8CrwKhl8FJOFqQaWWE0JbhxF+L9lnG4=";
               NODE_OPTIONS = "--openssl-legacy-provider";
             };
           });
